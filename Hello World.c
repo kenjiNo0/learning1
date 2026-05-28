@@ -2,5 +2,5 @@
 
 int main(){
 printif("Hello World!"):
-rerutn 0;
+return 0;
 }
